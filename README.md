@@ -74,11 +74,17 @@ Visualizations:
 
 Insight	Description
 🥑 Most Popular Products	Bananas, Bag of Organic Bananas, and Strawberries are most ordered.
+
 🏬 Popular Departments	Produce, dairy eggs, snacks dominate orders.
+
 ⏰ Order Time Patterns	Most orders happen between 9 AM and 3 PM.
+
 📅 Day-wise Trends	Sunday and Monday are the peak shopping days.
+
 🔁 Reorders	A large percentage of products are reorders—showing loyalty.
+
 🧾 Basket Size	Most customers order between 5–15 items per order.
+
 🧾 6. Conclusion
-This project gives a comprehensive view of customer purchase behavior on an e-commerce platform. The insights can help marketing teams personalize recommendations and improve customer experience.
+  This project gives a comprehensive view of customer purchase behavior on an e-commerce platform. The insights can help marketing teams personalize recommendations and improve customer experience.
 
